@@ -1,0 +1,4 @@
+I need to know about the following editors for the exam:
+nano,
+emacs,
+and vi (also called vim)
